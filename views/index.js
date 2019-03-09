@@ -1,0 +1,1 @@
+export {default as MoodView} from './MoodView';
